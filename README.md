@@ -1,5 +1,5 @@
 # CopRopeClone
-Cop rope clone using with RopeMinikit
+Cop Rope Clone with RopeMinikit
 
 
 
